@@ -1,7 +1,7 @@
 ### Olá! Eu sou Áquila David
 
 
-![Aquila David GitHub stats](https://github-readme-stats.vercel.app/api?username=AquilaDavid&show_icons=true&theme=transparent) 
+![AquilaDavid GitHub stats](https://github-readme-stats.vercel.app/api?username=AquilaDavid&show_icons=true&theme=transparent) 
 
 ## Tecnologias que uso do dia a dia 
 
